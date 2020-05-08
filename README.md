@@ -8,6 +8,7 @@ software_engineering project
 组员：赵恒，吴嘉林，潘智超，李红甫
 
 开发过程分为四个阶段：
+
 一、问题定义阶段
 
 二、需求分析阶段
