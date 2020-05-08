@@ -1,7 +1,10 @@
 # software_engineering
 software_engineering project
+
 准时Ding-员工打卡平台
+
 组长：孙世卓
+
 组员：赵恒，吴嘉林，潘智超，李红甫
 
 开发过程分为四个阶段：
